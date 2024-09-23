@@ -1,0 +1,30 @@
+{
+    "name": "Theron Romain",
+    "logoType": {
+        "mobile": "RT",
+        "desktop": "Romain THERON"
+    },
+    "mainPicture": "/assets/HP.webp",
+    "mainPictureJPG": "/assets/HP.jpeg",
+    "pronunciation": "",
+    "audioFile": "/assets/name-pro.mp3",
+    "cssVarPrefix": "",
+    "email": "romain.theron@edu.devinci.fr",
+    "linkedin": "https://www.linkedin.com/in/romain-theron1/",
+    "github": "https://github.com/RomainTheron22",
+    "resume": "https://drive.google.com/file/d/1FrxGyL2Qkz-XO2ISQqCF3RO7cXq5RDSZ/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/romain-theron1/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/RomainTheron22"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:romain.theron@edu.devinci.fr"
+        }
+    ]
+}

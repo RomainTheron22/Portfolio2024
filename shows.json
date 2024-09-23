@@ -1,0 +1,26 @@
+[
+    {
+        "show": "munich",
+        "code": "munich",
+        "name": "Expo",
+        "location": "Munich",
+        "iteration": "(exp. 2)",
+        "start_date": "2024-01-03",
+        "base_duration": "90",
+        "duration": "90",
+        "status": "archive",
+        "sensors": 3
+    },
+    {
+        "show": "TEST",
+        "code": "Test1",
+        "name": "TEST",
+        "location": "Loca TEST",
+        "iteration": "(exp. 1)",
+        "start_date": "2024-06-12",
+        "base_duration": "15",
+        "duration": "15",
+        "status": "live",
+        "sensors": 3
+    }
+]

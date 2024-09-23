@@ -1,0 +1,58 @@
+[
+    {
+        "id": "featured-project-scrapbook",
+        "title": "Art & Science: Spirulina bioreactor",
+        "year": "Apr 2024 - Aug 2024",
+        "location": "IFT, Paris",
+
+        "tags": [
+            "Spirulina",
+            "Bio-reactor",
+            "Hardware",
+            "Electronic",
+            "Design",
+            "Artistic exhibition",
+            "Website",
+            "Software",
+            ""
+        ],
+        "description": "Design of a one-square-meter spirulina (algae) photobioreactor for a Disnovation art project. Integration of various sensors and recording in a database. Design of an online site providing live updates on the progress of the project, sensor data and a 3D representation of the global biomass. ",
+        "readMore": "http://disnovation.org/tss/",
+        "image": "/assets/featured-projects/TSS.webp",
+        "jpg": "/assets/featured-projects/TSS.jpg"
+    },
+    {
+        "id": "featured-project-trackcta",
+        "title": "Aquaponic System",
+        "year": "Sep 2023 - May 2024",
+        "location": "IFT, Paris",
+        "github": "https://github.com/RomainTheron22/aquaponics-platform",
+        "tags": ["Aquaponics", "Sustainibility", "Innovation", "Conception", "Electronic", "Software", "Hardware", "Sensors", "Start-up"],
+        "description": "Development of a prototype of an industrial aquaponic system. Fabrication of the structure & development of the farm management software. The system is designed to be modular, automated and capable of mass production.",
+        "readMore": "https://dvic.devinci.fr/Aquaponic-System",
+        "image": "/assets/featured-projects/Aqua1.webp",
+        "jpg": "/assets/featured-projects/aqua.jpeg"
+    }, 
+    {
+        "id": "featured-project-measure-ux",
+        "location": "IFT, Paris",
+        "title": "Kick Starter Campaign",
+        "year": "Oct 2023 - Mar 2024",
+        "tags": ["Kick Starter", "EntrepreneurShip", "Industrialization", "Communication", "Social Medias"],
+        "description": "Launch of a Kick Starter campaign enabling me to see every aspect, from industrialisation to marketing.",
+        "readMore": "https://www.kickstarter.com/projects/1485002358/quickstarter-key-starter",
+        "image": "/assets/featured-projects/KS.webp",
+        "jpg": "/assets/featured-projects/KS.jpg"
+    },
+    {
+        "id": "featured-project-asctb-reporter",
+        "title": "Anti-Sleep Glasses",
+        "year": "Feb 2024",
+        "location": "IFT, Paris",
+        "tags": ["Hardware", "Sensors", "Electronic", "Safety"],
+        "description": "Conception of glasses that detect drowsiness to improve safety",
+        "readMore": "https://dvic.devinci.fr/AntiSleepGlass",
+        "image": "/assets/featured-projects/asg.webp",
+        "jpg": "/assets/featured-projects/asg.jpg"
+    }
+]

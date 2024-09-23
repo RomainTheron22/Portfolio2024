@@ -1,0 +1,62 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "ESILV",
+            "degree": "Master Creative Technology Engineer",
+            "duration": "2021 - 2025",
+            "content": [
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Varna University of Management",
+            "degree": "Erasmus",
+            "duration": "Sep 2022 - Jan 2023",
+            "content": [
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "Disnovation",
+            "position": "Creative Technologist",
+            "duration": "Apr 2024 - Aug 2024",
+            "description": [
+                "Design of a one-square-meter spirulina (algae) photobioreactor for a Disnovation project, mixing Art & Technology.",
+                "Integration of various sensors and recording in a database.",
+                "Design of an online site providing live updates on the progress of the project, sensor data and a 3D representation of the global biomass. "
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "Nestle Purina",
+            "position": "Intership as Engineer",
+            "duration": "Jun 2022 - Aug 2022",
+            "description": [
+                "Intern in the logistics department, overhaul of the traffic system around the site. ​",
+                "Intern in the production department, reorganisation of workstations, excel interactive planning project. "
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "Python",
+                "Arduino",
+                "C/C++",
+                "JavaScript",
+                "SQL",
+                "HTML/CSS"
+            ]
+        },
+        {
+            "title": "Software",
+            "tools": ["SolidWork", "Fusion360", "Kicad", "Adobe Illustrator", "Adobe Photoshop", "Excel", "Powerpoint", "Arduino IDE"]
+        }
+    ]
+    
+    
+}

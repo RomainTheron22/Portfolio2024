@@ -1,0 +1,49 @@
+[
+    {
+        "id": "other-project-bank-compare",
+        "title": "Mycelium bioreactor",
+        "year": "Jan 2024",
+        "tags": [
+            "Mycelium",
+            "Bio-reactor",
+            "Hardware",
+            "Electronic",
+            "Design"
+        ],
+        "description": "An autonomous mycelium bioreactor stands as a testament to innovative design, meticulously crafted to harmonize functionality with aesthetic allure.",
+        "readMore": "https://dvic.devinci.fr/projects/mycelium-bioreactor-tubex3",
+        "image": "/assets/other-projects/Bio1.webp",
+        "jpg": "/assets/other-projects/Bio1.jpeg"
+    },
+    {
+        "id": "other-project-post",
+        "title": "Multiplayer Python Game",
+        "year": "Dec 2023",
+        "tags": ["Python", "Thread", "Pygame"],
+        "description": "Creation of a multiplayer game on local server with Threads and Pygame library.",
+        "readMore": "https://github.com/RomainTheron22/SuperTronc",
+        "image": "/assets/other-projects/python.webp",
+        "jpg": "/assets/other-projects/python.jpeg"
+
+    },
+    {
+        "id": "other-project-bunder",
+        "title": "Mission R&D PikkoPay",
+        "year": "Jan 2020 - Apr 2020",
+        "tags": ["R&D", "API", "BDD", "Hardware"],
+        "description": "Conception of a luminous cube connected to an API and BDD to detect the change of status of an order.",
+        "image": "/assets/other-projects/Pikko.webp",
+        "jpg": "/assets/other-projects/Pikko.jpeg"
+    },
+    {
+        "id": "other-project-noq",
+        "title": "Arduino console",
+        "year": "Nov 2023",
+        "demo": "https://github.com/RomainTheron22/Bike-Wars-Neon-Riders/blob/main/VideoPresentationJeu.mp4",
+        "tags": ["Arduino", "ESP32", "Electronic", "PCB", "3D Conception"],
+        "description": "Development of a multiplayer arduino game to be played on 2 separate and connected consoles. Design of the console and its case.",
+        "readMore": "https://github.com/RomainTheron22/Bike-Wars-Neon-Riders",
+        "image": "/assets/other-projects/Bike.webp",
+        "jpg": "/assets/other-projects/Bike.jpeg"
+    }
+]

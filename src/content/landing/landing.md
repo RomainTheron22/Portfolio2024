@@ -1,0 +1,2 @@
+Welcome 👋 I'm a _Engineering Student_ at [ESILV](https://www.esilv.fr/) based out of Paris, France. I am an undergraduate Master of Science student and Creative Technologist at the [Institute for Future Technologies](https://ift.devinci.fr/). 
+I'm a part of the Resilient Future group, dedicated to developing Sustainable and Resilient Technologies, embracing long term perspectives of Climate Change. We explore both Alternative Materials and Low-Tech Methodologies.

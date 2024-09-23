@@ -1,5 +1,5 @@
 # EN
----
+
 ## Portfolio
 
 This portfolio uses the template created by [Hrishikesh Paul](https://github.com/hrishikeshpaul/portfolio-template-v2). This template was designed to help developers quickly and easily create a modern and attractive portfolio site.
@@ -51,8 +51,10 @@ The site will be accessible at the local address shown in the console.
 
 This will deploy the current version of your portfolio to your server.
 
-# FR
 ---
+
+# FR
+
 ## Portfolio
 
 Ce portfolio utilise le template créé par [Hrishikesh Paul](https://github.com/hrishikeshpaul/portfolio-template-v2). Ce template a été conçu pour aider les développeurs à créer rapidement et facilement un site portfolio moderne et attrayant.
